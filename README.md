@@ -1,5 +1,7 @@
 # vuex-test
-
+```
+hutto
+```
 ## Project setup
 ```
 npm install
