@@ -1,4 +1,7 @@
 # vuex-test
+```
+Hutto
+```
 
 ## Project setup
 ```
